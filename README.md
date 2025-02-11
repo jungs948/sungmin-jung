@@ -11,43 +11,210 @@
     <div style="width: 398px; height: 425px; left: 505px; top: 187px; position: absolute; opacity: 0.40; background: #D9D9D9"></div>
     <div style="width: 398px; height: 425px; left: 55px; top: 187px; position: absolute; opacity: 0.40; background: #D9D9D9"></div>
 </div>
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 1440px; height: 1024px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1440x1024" />
-    <img style="width: 1442px; height: 785px; left: -2px; top: 120px; position: absolute" src="https://via.placeholder.com/1442x785" />
-    <img style="width: 1442px; height: 785px; left: -1px; top: 120px; position: absolute" src="https://via.placeholder.com/1442x785" />
-    <div style="left: 687px; top: 56px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word"> </div>
-    <div style="width: 137px; height: 61px; left: 669px; top: 30px; position: absolute; background: #D9D9D9"></div>
-    <div style="left: 684px; top: 38px; position: absolute; color: #0B0000; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
-    <div style="left: 65px; top: 38px; position: absolute; color: #FFFCFC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">BACK  PAGE</div>
-    <div style="left: 1197px; top: 38px; position: absolute; color: #FFFCFC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">MY  PAGE</div>
-    <div style="left: 973px; top: 46px; position: absolute; color: #FFFCFC; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOCATION</div>
-    <div style="width: 588px; height: 375px; left: 0px; top: 270px; position: absolute; opacity: 0.50; background: #D9D9D9"></div>
-    <div style="width: 652px; height: 191px; left: 788px; top: 847px; position: absolute; opacity: 0.50; background: #D9D9D9"></div>
-    <div style="width: 528px; height: 323px; left: 669px; top: 311px; position: absolute; background: #6A1212"></div>
-    <div style="width: 358px; height: 221px; left: 640px; top: 564px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">We’ll be mixing tiki classics and some new creations <br/>using top- shelf spirits and organic mixers/ Not a tippler?<br/>Not to worry- we’ll have full menu of delicious mocktails<br/>on offer, too. enjoy and believe. </div>
-    <div style="width: 352px; height: 428px; left: 1048px; top: 172px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">We’ll be mixing tiki classics and some new creations <br/>using top- shelf spirits and organic mixers/ Not a tippler?<br/>Not to worry- we’ll have full menu of delicious mocktails<br/>on offer, too. enjoy and believe it. We’ll be mixing tiki classics and some new creations <br/>using top- shelf spirits and organic mixers/ Not a tippler?<br/>Not to worry- we’ll have full menu of delicious mocktails<br/>on offer, too. </div>
-    <div style="width: 541px; height: 145px; left: 521px; top: 311px; position: absolute; color: white; font-size: 96px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Fine Drinks</div>
-</div>
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 1439.50px; height: 757.50px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1439x757" />
-    <img style="width: 1440px; height: 267px; left: 0px; top: 757px; position: absolute" src="https://via.placeholder.com/1440x267" />
-    <img style="width: 688px; height: 298px; left: 42px; top: 698px; position: absolute" src="https://via.placeholder.com/688x298" />
-    <div style="left: 897px; top: 812px; position: absolute"><span style="color: white; font-size: 36px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Feel free to reach out</span><span style="color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">!</span></div>
-    <div style="width: 597px; height: 387px; left: 778px; top: 292px; position: absolute; background: #D9D9D9"></div>
-    <div style="width: 541px; height: 113px; left: 67px; top: 0px; position: absolute; background: #D9D9D9"></div>
-    <div style="width: 699px; height: 298px; left: 42px; top: 698px; position: absolute; background: #D9D9D9"></div>
-    <div style="width: 726px; height: 461px; left: 42px; top: 218px; position: absolute; background: #6A1212"></div>
-    <div style="left: 128px; top: 180px; position: absolute; color: white; font-size: 96px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Good Vibes</div>
-    <div style="width: 616px; height: 235px; left: 104px; top: 378px; position: absolute; color: white; font-size: 32px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Look out for guest DJs spinning vintage <br/>bossa nova and deep house, party games, <br/>a tiki photo booth and a top secret live performance right as the clock <br/>strikes midnight. Don’t miss the fun!</div>
-    <div style="left: 1197px; top: 34px; position: absolute; color: #FFFCFC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">MY  PAGE</div>
-    <div style="width: 1440px; height: 129.50px; left: 0px; top: -16px; position: absolute; background: #0F0000"></div>
-    <div style="left: 676px; top: 34px; position: absolute; color: #0B0000; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
-    <div style="width: 154px; height: 55px; left: 643px; top: 34px; position: absolute; background: #D9D9D9"></div>
-    <div style="left: 974px; top: 46px; position: absolute; color: #FFFCFC; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOCATION</div>
-    <div style="left: 1197px; top: 34px; position: absolute; color: #FFFCFC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">MY  PAGE</div>
-    <div style="left: 67px; top: 34px; position: absolute; color: #FFFCFC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">BACK  PAGE</div>
-    <div style="left: 666px; top: 43px; position: absolute; color: #0A0000; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">HOME</div>
-</div>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fine Drinks</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #6A1212;
+            color: white;
+            text-align: center;
+        }
+        .section {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        .background-img {
+            position: absolute;
+            width: 100%;
+            height: 100vh;
+            top: 0;
+            left: 0;
+            object-fit: cover;
+            z-index: -1;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            position: absolute;
+            top: 30px;
+            padding: 0 50px;
+            font-size: 24px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+        }
+        .home-button {
+            background: #D9D9D9;
+            padding: 10px 20px;
+            color: black;
+            font-size: 24px;
+            font-weight: 400;
+        }
+        .content-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 80%;
+            gap: 50px;
+        }
+        .image-container {
+            width: 40%;
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .text-container {
+            width: 50%;
+            text-align: left;
+        }
+        .text-container h1 {
+            font-size: 96px;
+            margin-bottom: 20px;
+            font-family: 'Inria Serif', serif;
+        }
+        .text-container p {
+            font-size: 24px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <img class="background-img" src="your-updated-background-image.jpg" alt="Background">
+        <div class="navbar">
+            <a href="#">BACK PAGE</a>
+            <a href="#" class="home-button">HOME</a>
+            <a href="#">LOCATION</a>
+            <a href="#">MY PAGE</a>
+        </div>
+        <div class="content-container">
+            <div class="image-container">
+                <img src="your-updated-image.jpg" alt="Fine Drinks Image">
+            </div>
+            <div class="text-container">
+                <h1>Fine Drinks</h1>
+                <p>We’ll be mixing tiki classics and some new creations using top-shelf spirits and organic mixers. Not a tippler? Not to worry—we’ll have a full menu of delicious mocktails on offer, too.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Good Vibes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inria Serif', serif;
+            background-color: #6A1212;
+            color: white;
+            text-align: center;
+        }
+        .section {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            position: absolute;
+            top: 30px;
+            padding: 0 50px;
+            font-size: 24px;
+            background: #0F0000;
+            height: 100px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+        }
+        .home-button {
+            background: #D9D9D9;
+            padding: 10px 20px;
+            color: black;
+            font-size: 24px;
+            font-weight: 400;
+        }
+        .content-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 80%;
+            height: 80vh;
+        }
+        .text-box {
+            width: 50%;
+            text-align: left;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+        }
+        .text-box h1 {
+            font-size: 96px;
+            margin-bottom: 20px;
+        }
+        .text-box p {
+            font-size: 32px;
+            line-height: 1.6;
+        }
+        .image-box {
+            width: 40%;
+            height: 60%;
+            background: rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="navbar">
+            <a href="#">BACK PAGE</a>
+            <a href="#" class="home-button">HOME</a>
+            <a href="#">LOCATION</a>
+            <a href="#">MY PAGE</a>
+        </div>
+        <div class="content-container">
+            <div class="text-box">
+                <h1>Good Vibes</h1>
+                <p>Look out for guest DJs spinning vintage bossa nova and deep house, party games, a tiki photo booth and a top secret live performance right as the clock strikes midnight. Don’t miss the fun!</p>
+            </div>
+            <div class="image-box"></div>
+        </div>
+    </div>
+</body>
+</html>
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 1440px; height: 325px; left: 0px; top: 810px; position: absolute" src="https://via.placeholder.com/1440x325" />
     <img style="width: 1440px; height: 487px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1440x487" />
@@ -78,36 +245,120 @@
     <div style="left: 821px; top: 809px; position: absolute; color: black; font-size: 24px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Book</div>
     <div style="left: 1138px; top: 809px; position: absolute; color: black; font-size: 24px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Book</div>
 </div>
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 1440px; height: 735px; left: 0px; top: 289px; position: absolute" src="https://via.placeholder.com/1440x735" />
-    <div style="width: 100px; height: 100px; left: 647px; top: 203px; position: absolute; background: #D9D9D9"></div>
-    <img style="width: 1463px; height: 729px; left: -23px; top: -96px; position: absolute" src="https://via.placeholder.com/1463x729" />
-    <div style="width: 148px; height: 66px; left: 630px; top: 337px; position: absolute; background: #D9D9D9"></div>
-    <div style="left: 648px; top: 351px; position: absolute; color: black; font-size: 32px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Join us!</div>
-    <div style="width: 1440px; height: 512px; left: 0px; top: 512px; position: absolute; background: #C90D0D"></div>
-    <div style="left: 647px; top: 950px; position: absolute; color: white; font-size: 32px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Location</div>
-    <div style="left: 864px; top: 950px; position: absolute; color: white; font-size: 32px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Phone number- 646 407 7893</div>
-    <div style="left: 263px; top: 656px; position: absolute; color: #120000; font-size: 64px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">CH2. RUMB</div>
-    <div style="width: 559px; height: 329px; left: 852px; top: 390px; position: absolute; color: white; font-size: 128px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Hailey’s <br/> House</div>
-    <div style="left: 189px; top: 848px; position: absolute; color: white; font-size: 32px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">df</div>
-    <div style="width: 478px; height: 118px; left: 465px; top: 804px; position: absolute; color: #120000; font-size: 64px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">CH2. CH3. RUMB</div>
-    <div style="width: 1440px; height: 272px; left: 0px; top: 240px; position: absolute; opacity: 0.40; background: #FFFFFF; border: 1px black solid"></div>
-    <div style="width: 280px; height: 72px; left: 569px; top: 337px; position: absolute; background: #D9D9D9"></div>
-    <div style="left: 627px; top: 347px; position: absolute; color: black; font-size: 36px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Check out</div>
-    <div style="width: 1440px; height: 7px; left: 0px; top: 240px; position: absolute; background: white"></div>
-    <div style="width: 1440px; height: 7px; left: 0px; top: -3px; position: absolute; background: white"></div>
-    <div style="width: 6px; height: 240px; left: 6px; top: -3px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
-    <div style="width: 101px; height: 86px; left: 677px; top: 79px; position: absolute; background: #0D0000"></div>
-    <div style="width: 98px; height: 86px; left: 1156px; top: 79px; position: absolute; background: #0D0000"></div>
-    <div style="width: 1428px; height: 240px; left: 9px; top: -3px; position: absolute; background: #0D0D0D"></div>
-    <div style="left: 1071px; top: 83px; position: absolute; color: white; font-size: 48px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Rumb’s kind</div>
-    <div style="left: 630px; top: 83px; position: absolute; color: white; font-size: 48px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">My page</div>
-    <div style="width: 5px; height: 240px; left: 487px; top: -3px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
-    <div style="width: 6px; height: 240px; left: 979px; top: 3px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
-    <div style="width: 6px; height: 240px; left: 1440px; top: 4px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white"></div>
-    <div style="left: 716px; top: 83px; position: absolute; color: #100000; font-size: 48px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">V</div>
-    <div style="left: 122px; top: 83px; position: absolute; color: white; font-size: 48px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Your order</div>
-</div>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hailey’s House</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inria Serif', serif;
+            background-color: #A1241E;
+            color: white;
+            text-align: center;
+        }
+        .section {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 50px;
+            position: relative;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: black;
+            padding: 20px 40px;
+            font-size: 1.5rem;
+            width: 100%;
+            position: absolute;
+            top: 0;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+        .top-section {
+            width: 100%;
+            height: 30vh;
+            background: url('your-image-url.jpg') no-repeat center center/cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .top-section p {
+            font-size: 1.5rem;
+            color: white;
+            position: absolute;
+            top: 10%;
+        }
+        .top-section button {
+            font-size: 1.5rem;
+            padding: 10px 20px;
+            background-color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .content {
+            text-align: left;
+            max-width: 80%;
+            margin-top: 20px;
+        }
+        .content h1 {
+            font-size: 5rem;
+            margin-bottom: 20px;
+        }
+        .grid-layout {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            width: 100%;
+            max-width: 80%;
+            margin-top: 40px;
+        }
+        .grid-box {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 40px;
+            text-align: center;
+            font-size: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="section">
+        <div class="navbar">
+            <a href="#">Your order</a>
+            <a href="#">My page</a>
+            <a href="#">Rumb’s kind</a>
+        </div>
+        <div class="top-section">
+            <p>Your 1s and 2s are always welcome, but please do let us know in advance so we bring enough drinks for everyone.</p>
+            <button>Check out</button>
+        </div>
+        <div class="content">
+            <h1>Hailey’s House</h1>
+            <div class="grid-layout">
+                <div class="grid-box">CH2. RUMB</div>
+                <div class="grid-box">CH3. RUMB</div>
+            </div>
+            <p>Location</p>
+            <p>Phone number - 646 407 7893</p>
+        </div>
+    </div>
+</body>
+</html>
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <img style="width: 1501px; height: 1024px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1501x1024" />
     <div style="left: 978px; top: 569px; position: absolute"><span style="color: white; font-size: 36px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Red maple sunset<br/><br/></span><span style="color: white; font-size: 24px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Combine all ingredients <br/>in a cocktail shaker and <br/>dry shake. Add ice and <br/>shake again. Double <br/>strain into a martini<br/> glass and garnish with <br/>a twist of orange.</span></div>
@@ -122,7 +373,6 @@
     <div style="width: 234px; height: 94px; left: 1005px; top: 623px; position: absolute; opacity: 0.80; background: #D9D9D9; border: 1px black solid"></div>
     <div style="width: 251px; height: 81px; left: 1041px; top: 636px; position: absolute; color: black; font-size: 24px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">Make your own <br/>       Cocktail! </div>
     <div style="width: 348px; height: 255px; left: 944px; top: 246px; position: absolute; color: white; font-size: 40px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word">choose a flavor<br/>make an order<br/>watch the show<br/>smell it<br/>taste it</div>
-  
 </div>
 <div style="width: 100%; height: 100%; position: relative; background: white">
     <div style="width: 1423px; height: 1065.35px; left: 0.43px; top: -30px; position: absolute; opacity: 0.40">
